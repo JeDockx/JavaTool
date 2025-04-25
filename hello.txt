@@ -1,1 +1,2 @@
-hello hello, you are no more welcome in hello.txt, blabla
+hello hello, you are no more welcome in hello.txt, blabla.
+xtra line
